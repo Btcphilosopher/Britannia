@@ -1,0 +1,6 @@
+{
+  "name": "BRITANNIA",
+  "description": "Next-generation Anglo-Futurist Tourism & Travel Platform combining history, architecture, railways, and AI travel guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
